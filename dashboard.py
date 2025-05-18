@@ -1190,7 +1190,7 @@ st.markdown("""
             <a href="#" style="text-decoration: none;">Privacy Policy</a>
             <a href="#" style="text-decoration: none;">Support</a>
         </div>
-        <p style="color: #000000;">© 2025 BankVision Customer Analytics Platform | Version 2.5.0</p>
+        <p style="color: #000000;">© 2025 BankVision Customer Analytics Platform</p>
         <p style="font-size: 0.8rem; margin-top: 5px; color: #000000;">
             Developed by Abhishek Singh Dikhit | Last updated: """ + current_date + """
         </p>
