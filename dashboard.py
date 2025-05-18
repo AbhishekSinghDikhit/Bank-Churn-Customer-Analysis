@@ -406,9 +406,9 @@ colors = ['#3B82F6', '#10B981', '#F59E0B', '#EF4444', '#8B5CF6']
 # Dashboard header with animation
 st.markdown("""
     <div style="text-align: center; padding: 2rem 0 1.5rem 0;" class="fadeIn">
-        <h1>📊 Bank Customer Churn Dashboard</h1>
+        <h1 style="color: #6FE6FC;">📊 Bank Customer Churn Dashboard</h1>
         <p style="color: #64748B; font-size: 1.1rem; margin-top: 0;">
-            Uncover insights to drive customer retention strategies
+            Uncover insights t6FE6FCo drive customer retention strategies
         </p>
         <p style="color: #94A3B8; font-size: 0.85rem;">Last updated: """ + current_date + """</p>
     </div>
