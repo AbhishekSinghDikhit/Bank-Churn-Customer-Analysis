@@ -45,7 +45,7 @@ A data‐driven analysis of bank customer churn using MySQL, Python (Jupyter Not
 
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/your‑username/bank‑churn‑analysis.git
+git clone https://github.com/AbhishekSinghDikhit/Bank-Churn-Customer-Analysis.git
 cd bank‑churn‑analysis
 ```
 
